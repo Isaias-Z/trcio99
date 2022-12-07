@@ -42,6 +42,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --nv-ne: #040405;
+  --blue-nv: #09055A
   --bs-primary-rgb: 255, 200, 0;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -11410,7 +11411,7 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
+  color: #09055A;
   background-image: url("../assets/img/fondopp.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
