@@ -43,6 +43,7 @@
   --bs-dark: #212529;
   --nv-ne: #040405;
   --blue-nv: #09055A
+  --ngro-lt: #000000
   --bs-primary-rgb: 255, 200, 0;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -7774,7 +7775,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #000000 !important;
 }
 
 .text-black-50 {
